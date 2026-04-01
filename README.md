@@ -6,7 +6,7 @@
 
 Do advertisements significantly improve user conversion rates compared to a control group with no ads?
 
----
+
 
 ## 📦 Dataset Overview
 
@@ -27,28 +27,28 @@ Do advertisements significantly improve user conversion rates compared to a cont
 * Ensured each user belongs to only one group
 * Verified dataset integrity
 
----
+
 
 ### 2. Exploratory Analysis
 
 * Compared conversion rates across groups
 * Identified baseline performance
 
----
+
 
 ### 3. Hypothesis Testing
 
 * Performed **Z-test for proportions**
 * Determined statistical significance of results
 
----
+
 
 ### 4. Confidence Interval
 
 * Estimated range of true conversion uplift
 * Validated reliability of observed difference
 
----
+
 
 ### 5. Segmentation Analysis
 
@@ -91,21 +91,29 @@ Do advertisements significantly improve user conversion rates compared to a cont
 ### Conversion Comparison
 
 ![Conversion rate comparison between ad group at approximately 3% and control group at approximately 2%, demonstrating a 43% relative uplift and 0.77% absolute increase in conversion rates]
-(visualization/conversion_rate.png)
+
+<img width="584" height="455" alt="conversion_rate" src="https://github.com/user-attachments/assets/00038f4f-afa4-43ed-b50e-3a5617c92414" />
+
 
 ### Day-wise Performance
 
 ![Day-wise conversion performance comparing ad and control groups across all weekdays, with Tuesday and Wednesday showing the highest conversion rates]
-(visualization/daywise.png)
+
+<img width="611" height="455" alt="daywise" src="https://github.com/user-attachments/assets/f89c6a15-be73-4dca-9b0c-3cae3f7b561c" />
+
 
 ### Hour-wise Performance
 
 ![Hourly conversion performance comparing ad and control groups across 24 hours, showing peak conversion rates during morning (7–10 AM) and evening (8–11 PM) periods]
-(visualization/hourwise.png)
+
+<img width="1265" height="725" alt="hourwise" src="https://github.com/user-attachments/assets/68e5dd1c-eb13-4b28-9fbe-e4c7c54290c4" />
+
 
 ### Uplift Analysis
 
-![Uplift analysis comparing relative and absolute conversion improvements between ad and control groups, visualizing the 43% relative uplift and 0.77% absolute increase in conversion rates](visualization/uplift.png)
+![Uplift analysis comparing relative and absolute conversion improvements between ad and control groups, visualizing the 43% relative uplift and 0.77% absolute increase in conversion rates]
+
+<img width="571" height="521" alt="uplift" src="https://github.com/user-attachments/assets/d6b74483-aa81-4cae-bb26-f41373f648c3" />
 
 ---
 
@@ -115,14 +123,14 @@ Do advertisements significantly improve user conversion rates compared to a cont
 * Optimize ad delivery during peak hours
 * Evaluate ROI due to relatively small absolute uplift
 
----
+
 
 ## ⚠️ Limitations
 
 * Imbalanced group distribution (96% vs 4%)
 * Further controlled experiments recommended
 
----
+
 
 ## 🚀 Tools & Technologies
 
@@ -130,7 +138,6 @@ Do advertisements significantly improve user conversion rates compared to a cont
 * Statistical Testing (Z-test)
 * Power BI (Dashboard)
 
----
 
 ## 🏁 Conclusion
 
