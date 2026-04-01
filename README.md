@@ -17,7 +17,7 @@ Do advertisements significantly improve user conversion rates compared to a cont
   * `psa` (control)
 * **Target Metric:** Conversion (True/False)
 
----
+
 
 ## ⚙️ Approach
 
@@ -57,7 +57,7 @@ Do advertisements significantly improve user conversion rates compared to a cont
   * Day of week
   * Hour of day
 
----
+
 
 ## 📊 Key Results
 
@@ -67,7 +67,7 @@ Do advertisements significantly improve user conversion rates compared to a cont
 * **Absolute Increase:** ~0.77%
 * **Statistical Significance:** p-value < 0.05
 
----
+
 
 ## 💡 Key Insights
 
@@ -84,7 +84,7 @@ Do advertisements significantly improve user conversion rates compared to a cont
   * **Thursday**
   * Early morning hours
 
----
+
 
 ## 📈 Visualization
 
@@ -115,7 +115,7 @@ Do advertisements significantly improve user conversion rates compared to a cont
 
 <img width="571" height="521" alt="uplift" src="https://github.com/user-attachments/assets/d6b74483-aa81-4cae-bb26-f41373f648c3" />
 
----
+
 
 ## 🧠 Business Recommendations
 
@@ -143,4 +143,4 @@ Do advertisements significantly improve user conversion rates compared to a cont
 
 The analysis demonstrates that while ads significantly increase conversion rates, the absolute improvement is modest. Strategic targeting based on time segmentation can enhance campaign effectiveness.
 
----
+
